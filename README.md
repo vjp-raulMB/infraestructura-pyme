@@ -4,8 +4,7 @@
 ## Integrantes
 
 * Raúl
-* Baiyong
-* Aitor Tura
+* Javier
 
 ## Objetivo
 
@@ -21,3 +20,5 @@ La documentación se encuentra en la carpeta `docs/`.
 * Pull Requests obligatorios
 * Revisión cruzada
 * Resolución de conflictos con merge y rebase
+Apache 2.4.59
+| Certbot | 2.9 | SSL/TLS automático |
