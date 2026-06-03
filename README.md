@@ -20,3 +20,4 @@ La documentación se encuentra en la carpeta `docs/`.
 * Pull Requests obligatorios
 * Revisión cruzada
 * Resolución de conflictos con merge y rebase
+Apache 2.4.60
