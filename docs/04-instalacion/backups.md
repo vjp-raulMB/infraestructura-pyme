@@ -53,3 +53,12 @@ mysql -u root -p web_empresa < web_empresa.sql
 * Probar restauraciones periódicamente
 * Verificar integridad de copias
 * Cifrar backups sensibles
+
+
+mysqldump -u root -p web_empresa > backup_web.sql
+
+rsync -avz /backups usuario@servidor:/ruta/
+
+crontab -e
+
+0 2 * * * /usr/local/bin/backup.sh

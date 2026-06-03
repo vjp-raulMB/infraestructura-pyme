@@ -61,3 +61,7 @@ sudo ufw allow 19999/tcp
 * Limitar acceso a Netdata por IP
 * Monitorizar logs semanalmente
 * Configurar alertas futuras
+
+bash <(curl -Ss https://my-netdata.io/kickstart.sh)
+
+http://IP_SERVIDOR:19999
