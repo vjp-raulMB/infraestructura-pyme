@@ -4,7 +4,8 @@
 ## Integrantes
 
 * Raúl
-* Javier
+* Baiyong
+* Aitor Tura
 
 ## Objetivo
 
