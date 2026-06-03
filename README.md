@@ -4,7 +4,7 @@
 ## Integrantes
 
 * Raúl
-* Javier
+* Baiyong
 
 ## Objetivo
 
